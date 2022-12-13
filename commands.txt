@@ -1,0 +1,13 @@
+test - Test connection to current configuration.
+info - Current configuration.
+acc - Credentials (user, password).
+host - Url of the Moodle.
+repo - RepoID.
+upt - Type of upload to moodles (draft, profile, blog, calendar).
+del - Delete the link from Moodle.
+zip - Size of zips.
+proxy - Equip proxy.
+off_proxy - Unequip proxy.
+crypt - Encrypt proxy.
+decrypt - Decrypt proxy.
+help - Help about the bot.

@@ -1,0 +1,18 @@
+╭───ⓘ Como Descargar
+│
+├1. Envíame un enlace directo.
+├2. Usa el TxT que se genera con 1DM.
+│
+╰─⎔ ᯽⊱┈─────╌❋╌─────┈⊰᯽
+
+• El bot permite autoconfigurarse para subir a cualquier Moodle seleccionada.
+
+╭───ⓘ Best Moodles
+│
+├Uclv /uclv proxy opcional.
+├Evea /evea proxy obligatorio.
+├Cursad /jovenclub consume datos!
+│
+╰─ⓘ Otras Moodles /moodles
+
+• Usa /version para conocer la versión actual del bot.
